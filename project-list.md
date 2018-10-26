@@ -2,7 +2,11 @@
 
 Date updated: 2018-10-23
 
-Productivity and teamwork | Projects | Dev Tools and Utilities | Archived
+Productivity and teamwork | 
+Projects | 
+Dev Tools and Utilities
+
+[Archived](#archived)
 
 ---
 
@@ -125,9 +129,43 @@ Productivity and teamwork | Projects | Dev Tools and Utilities | Archived
 - plotly-js
 - vega
 
-## Archive
+---
 
-*Should we archive?*
+## Archived 
 
+- ansi-to-react
+    - ANSI to React
+- associator
+    - Associates file extensions to an application
+- commuter
+    - Migrated to nteract/nteract
+- enchannel-zmq-backend
+    - Moved to the nteract/nteract repo
+- jupyter-display-area
+    - Prototype Web Component for Jupyter Display Areas
+- jupyter-kernel-launcher
+    - Launches Jupyter kernels from a Node environment
+- jupyter-session
+    - A tool for interacting with Jupyter kernels
+- jupyter-transport-wrapper
+    - A thin wrapper abstracting over ZMQ and (evenutally) websockets for Jupyter
 - naming
+    - Shipping releases with style
+- nteract.github.io
+    - GitHub Pages for nteract *** DEPRECATED - See https://github.com/nteract/nteract.io ***
+- react-jupyter-display-area
+    - Jupyter Display Area as a React Component
 - tick-tock
+    - Exploring Clock Synchronization
+- transformime
+    - Mimetype + data -> HTMLElement
+- transformime-commonmark
+    - Transformer using commonmark.js
+- transformime-jupyter-transformers
+    - Transformers for Jupyter-specific MIME types.
+- transformime-marked
+    - Transformer using marked
+- transformime-react
+    - Mimetype + data -> React Element
+- zmq-static
+    - Statically linked bindings for node.js and io.js to ZeroMQ
