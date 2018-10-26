@@ -1,11 +1,10 @@
 # Active Projects for [nteract](https://github.com/nteract)
 
-Date updated: 2018-10-23
+Date updated: 2018-10-25
 
-Productivity and teamwork | 
-Projects | 
-Dev Tools and Utilities
-
+[Productivity and teamwork](##productivity-and-teamwork) | 
+[Project Areas](#project-areas) | 
+[Dev Tools and Utilities](#dev-tools-and-utilities) |
 [Archived](#archived)
 
 ---
@@ -18,7 +17,6 @@ Dev Tools and Utilities
 - *roadmap* (google doc)
 - specs
 
-
 ### Marketing, Communications, and Public Relations
 
 - assets
@@ -27,14 +25,12 @@ Dev Tools and Utilities
 - nteract-monthly-newsletter
 - [nteract.io](https://github.com/nteract/nteract.io): website
 
-
 ### Documentation
 
 - desktop-manual
 - [docs](https://github.com/nteract/docs)
 - docs-old
 - education
-
 
 ---
 
@@ -70,7 +66,13 @@ Dev Tools and Utilities
 
 - [vega-embed-v2](https://github.com/nteract/vega-embed-v2)
 
+---
+
 ## Workflow
+
+### bookstore: workflows for notebook storage
+
+- [bookstore](https://github.com/nteract/bookstore)
 
 ### papermill: workflows for notebook execution
 
@@ -78,10 +80,7 @@ Dev Tools and Utilities
 - papermillr
 - [scrapbook](https://github.com/nteract/scrapbook)
 
-### bookstore: workflows for notebook storage
-
-- [bookstore](https://github.com/nteract/bookstore)
-
+---
 
 ## Dev Tools and Utilities
 
@@ -90,8 +89,9 @@ Dev Tools and Utilities
 - jupyter-paths
 - ipython-paths
 
+---
 
-# Active or inactive
+### Active or inactive
 
 - ion
 - mathjax-electron
@@ -121,13 +121,6 @@ Dev Tools and Utilities
 - notebook-test-data
 - ick
 - terminal-sidecar
-
-## Forks
-
-*Do we wish to maintain these forks or archive for now?*
-
-- plotly-js
-- vega
 
 ---
 
