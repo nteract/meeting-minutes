@@ -4,7 +4,7 @@ Date updated: 2018-10-25
 
 [Productivity and teamwork](##productivity-and-teamwork) | 
 [Project Areas](#project-areas) | 
-[Dev Tools and Utilities](#dev-tools-and-utilities) |
+[Dev Tools, Utilities, Experiments](#dev-tools-and-utilities) |
 [Archived](#archived)
 
 ---
@@ -16,6 +16,8 @@ Date updated: 2018-10-25
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) and (google doc)
 - *roadmap* (google doc)
 - [specs](https://github.com/nteract/specs)
+- [global-sprint](https://github.com/nteract/global-sprint)
+- [iniatives](https://github.com/nteract/iniatives)
 
 ### Marketing, Communications, and Public Relations
 
@@ -31,6 +33,7 @@ Date updated: 2018-10-25
 - [docs](https://github.com/nteract/docs)
 - [docs-old](https://github.com/nteract/docs-old)
 - [education](https://github.com/nteract/education)
+- [examples](https://github.com/nteract/examples)
 
 ---
 
@@ -55,16 +58,27 @@ Date updated: 2018-10-25
 
 - [hydrogen](https://github.com/nteract/hydrogen)
 
+### ion
 
-### nteract: desktop
+- [ion](https://github.com/nteract/ion): React-backed UI Toolkit for nteract apps
 
-- [nteract](https://github.com/nteract/nteract)
+### nteract: Desktop
+
+- [nteract](https://github.com/nteract/nteract): monorepo and Desktop
 - [desktop-integration-tests](https://github.com/nteract/desktop-integration-tests)
+- [create-nteract-app](https://github.com/nteract/create-nteract-app)
+- [models](https://github.com/nteract/models)
 
 
 ### vizualization
 
+- [dx](https://github.com/nteract/dx)
+- [sidecar](https://github.com/nteract/sidecar)
+- [terminal-sidecar](https://github.com/nteract/terminal-sidecar)
 - [vega-embed-v2](https://github.com/nteract/vega-embed-v2)
+- [vdom](https://github.com/nteract/vdom)
+- [minimal-plotly](https://github.com/nteract/minimal-plotly)
+- [improved-spark-viz](https://github.com/nteract/improved-spark-viz)
 
 ---
 
@@ -82,45 +96,27 @@ Date updated: 2018-10-25
 
 ---
 
-## Dev Tools and Utilities
+## Dev Tools, Utilities, Experiments
 
-### Utilities - development
-
-- [jupyter-paths](https://github.com/nteract/jupyter-paths)
-- [ipython-paths](https://github.com/nteract/ipython-paths)
-
----
-
-### Active or inactive
-
-- ion
-- mathjax-electron
-- galleria
-- zmq-prebuilt-testing
-- create-nteract-app
-- minimal-plotly
-- dx
-- vdom
-- examples
-- spawnteract
-- global-sprint
-- coffee_boat
+- [cabinet](https://github.com/nteract/cabinet)
+- [coffee_boat](https://github.com/nteract/coffee_boat)
+- [galleria](https://github.com/nteract/galleria)
 - graphql-schema-exploration
-- models
-- cabinet
-- term-launcher
-- improved-spark-viz
-- rx-jupyter
-- kernelspecs
-- sidecar
-- libzmq-win
-- oauth-server
-- inodejs
-- iniatives
-- snakestagram
-- notebook-test-data
-- ick
-- terminal-sidecar
+- [ick](https://github.com/nteract/ick)
+- [inodejs](https://github.com/nteract/inodejs)
+- [ipython-paths](https://github.com/nteract/ipython-paths)
+- [jupyter-paths](https://github.com/nteract/jupyter-paths)
+- [kernelspecs](https://github.com/nteract/kernelspecs)
+- [libzmq-win](https://github.com/nteract/libzmq-win)
+- [mathjax-electron](https://github.com/nteract/mathjax-electron)
+- [notebook-test-data](https://github.com/nteract/notebook-test-data)
+- [oauth-server](https://github.com/nteract/oauth-server)
+- [rx-jupyter](https://github.com/nteract/rx-jupyter)
+- [snakestagram](https://github.com/nteract/snakestagram)
+- [spawnteract](https://github.com/nteract/spawnteract)
+- [term-launcher](https://github.com/nteract/term-launcher)
+- [zmq-prebuilt-testing](https://github.com/nteract/vega-embed-v2)
+
 
 ---
 
