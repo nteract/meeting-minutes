@@ -15,22 +15,22 @@ Date updated: 2018-10-25
 
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) and (google doc)
 - *roadmap* (google doc)
-- specs
+- [specs](https://github.com/nteract/specs)
 
 ### Marketing, Communications, and Public Relations
 
-- assets
-- design
-- logos
-- nteract-monthly-newsletter
+- [assets](https://github.com/nteract/assets)
+- [design](https://github.com/nteract/design)
+- [logos](https://github.com/nteract/logos)
+- [nteract-monthly-newsletter](https://github.com/nteract/nteract-monthly-newsletter)
 - [nteract.io](https://github.com/nteract/nteract.io): website
 
 ### Documentation
 
-- desktop-manual
+- [desktop-manual](https://github.com/nteract/desktop-manual)
 - [docs](https://github.com/nteract/docs)
-- docs-old
-- education
+- [docs-old](https://github.com/nteract/docs-old)
+- [education](https://github.com/nteract/education)
 
 ---
 
@@ -38,18 +38,18 @@ Date updated: 2018-10-25
 
 ### commutable
 
-- commutable
-- commutable-models
-- commutable-perf
+- [commutable](https://github.com/nteract/commutable)
+- [commutable-models](https://github.com/nteract/commutable-models)
+- [commutable-perf](https://github.com/nteract/commutable-perf)
 
 - [commuter-on-glitch](https://github.com/nteract/commuter-on-glitch)
 
 ### enchannel
 
-- enchannel
-- enchannel-socketio-backend
-- enchannel-notebook-backend
-- enchannel-in-memory
+- [enchannel](https://github.com/nteract/enchannel)
+- [enchannel-socketio-backend](https://github.com/nteract/enchannel-socketio-backend)
+- [enchannel-notebook-backend](https://github.com/nteract/enchannel-notebook-backend)
+- [enchannel-in-memory](https://github.com/nteract/enchannel-in-memory)
 
 ### hydrogen: notebooks in atom editor
 
@@ -59,7 +59,7 @@ Date updated: 2018-10-25
 ### nteract: desktop
 
 - [nteract](https://github.com/nteract/nteract)
-- desktop-integration-tests
+- [desktop-integration-tests](https://github.com/nteract/desktop-integration-tests)
 
 
 ### vizualization
@@ -77,7 +77,7 @@ Date updated: 2018-10-25
 ### papermill: workflows for notebook execution
 
 - [papermill](https://github.com/nteract/papermill)
-- papermillr
+- [papermillr](https://github.com/nteract/papermillr)
 - [scrapbook](https://github.com/nteract/scrapbook)
 
 ---
@@ -86,8 +86,8 @@ Date updated: 2018-10-25
 
 ### Utilities - development
 
-- jupyter-paths
-- ipython-paths
+- [jupyter-paths](https://github.com/nteract/jupyter-paths)
+- [ipython-paths](https://github.com/nteract/ipython-paths)
 
 ---
 
