@@ -4,7 +4,7 @@ Date updated: 2018-10-25
 
 [Productivity and teamwork](##productivity-and-teamwork) | 
 [Project Areas](#project-areas) | 
-[Dev Tools, Utilities, Experiments](#dev-tools-and-utilities) |
+[Dev Tools, Utilities, Experiments](#dev-tools-utilities-experiments) |
 [Archived](#archived)
 
 ---
@@ -101,7 +101,7 @@ Date updated: 2018-10-25
 - [cabinet](https://github.com/nteract/cabinet)
 - [coffee_boat](https://github.com/nteract/coffee_boat)
 - [galleria](https://github.com/nteract/galleria)
-- graphql-schema-exploration
+- [graphql-schema-exploration](https://github.com/nteract/graphql-schema-exploration)
 - [ick](https://github.com/nteract/ick)
 - [inodejs](https://github.com/nteract/inodejs)
 - [ipython-paths](https://github.com/nteract/ipython-paths)
