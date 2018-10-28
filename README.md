@@ -1,23 +1,35 @@
-# nteract Developer Meeting Minutes
+# nteract Contributor Meeting Minutes
 
-This repository contains meeting notes from the nteract developer meetings.
+Welcome [**nteract**](https://nteract.io) contributors.
 
-## Weekly Meeting
+This repository contains information about project planning, including notes from the weekly nteract Contributor meetings. You can also find links to our GitHub Projects page, our Roadmap, and a list of nteract's repos.
 
-Mondays | 9:00 am PDT (UTC-7) | UTC: 16:00
+## [Weekly Contributor Meeting](https://zoom.us/j/795404957)
 
-_Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957)_
+**What:** Discuss upcoming work and short-term goals
 
-[Agenda and Google Doc for Meeting](https://docs.google.com/document/d/1W5Eu1OdKmy9lYsJ4E-3tk4Y-VKNioORY78PidQkkjxE/edit)
+**When:** Mondays | 9:00 am PDT (UTC-7) | UTC: 16:00
 
-## Links
+**Where:** _Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957)_
 
-[Roadmap](https://docs.google.com/document/d/1YDixHwNCWoPDUKeAmlR3q5c6ty1YklXuL2z53pL2lN4/edit)
+[Meeting Agenda on _Google Docs_](https://docs.google.com/document/d/1W5Eu1OdKmy9lYsJ4E-3tk4Y-VKNioORY78PidQkkjxE/edit)
 
-[Projects](https://github.com/orgs/nteract/projects)
+## Planning Links
 
-## Contributing
+| Link                                                                                                | Description                                                  |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [**Roadmap**](https://docs.google.com/document/d/1YDixHwNCWoPDUKeAmlR3q5c6ty1YklXuL2z53pL2lN4/edit) | milestones and vision for nteract                            |
+| [**GitHub Projects Page**](https://github.com/orgs/nteract/projects)                                | detailed planning information to meet our Roadmap milestones |
+| [**List of nteract repos and ongoing projects**](./project-list.md)                                 | includes links to every nteract repo                         |
 
-### Convert a Google Doc to Markdown file
+---
 
-Use Chrome add-on [GD2md-html](https://chrome.google.com/webstore/detail/gd2md-html/igffnbdfnodiaphfmfaiiaegmoljbghf).
+## Logistics
+
+### Maintaining the weekly minutes
+
+To Convert a Google Doc to Markdown file:
+
+- Use Chrome add-on [GD2md-html](https://chrome.google.com/webstore/detail/gd2md-html/igffnbdfnodiaphfmfaiiaegmoljbghf)
+- Make style edits on the converted document
+- Submit a PR to this repo
