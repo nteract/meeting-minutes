@@ -2,8 +2,8 @@
 
 Date updated: 2018-10-25
 
-[Productivity and teamwork](##productivity-and-teamwork) | 
-[Project Areas](#project-areas) | 
+[Productivity and teamwork](##productivity-and-teamwork) |
+[Project Areas](#project-areas) |
 [Dev Tools, Utilities, Experiments](#dev-tools-utilities-experiments) |
 [Archived](#archived)
 
@@ -11,29 +11,13 @@ Date updated: 2018-10-25
 
 ## Productivity and teamwork
 
-### Project Management and Planning
-
-- [meeting-minutes](https://github.com/nteract/meeting-minutes) and (google doc)
-- *roadmap* (google doc)
-- [specs](https://github.com/nteract/specs)
-- [global-sprint](https://github.com/nteract/global-sprint)
-- [iniatives](https://github.com/nteract/iniatives)
-
-### Marketing, Communications, and Public Relations
-
-- [assets](https://github.com/nteract/assets)
-- [design](https://github.com/nteract/design)
-- [logos](https://github.com/nteract/logos)
-- [nteract-monthly-newsletter](https://github.com/nteract/nteract-monthly-newsletter)
-- [nteract.io](https://github.com/nteract/nteract.io): website
-
-### Documentation
-
-- [desktop-manual](https://github.com/nteract/desktop-manual)
-- [docs](https://github.com/nteract/docs)
-- [docs-old](https://github.com/nteract/docs-old)
-- [education](https://github.com/nteract/education)
-- [examples](https://github.com/nteract/examples)
+| Project Management and Planning                               | Marketing, Communications, and Public Relations                                     | Documentation                                               |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [meeting-minutes](https://github.com/nteract/meeting-minutes) | [assets](https://github.com/nteract/assets)                                         | [desktop-manual](https://github.com/nteract/desktop-manual) |
+| _roadmap_ (google doc)                                        | [design](https://github.com/nteract/design)                                         | [docs](https://github.com/nteract/docs)                     |
+| [specs](https://github.com/nteract/specs)                     | [logos](https://github.com/nteract/logos)                                           | [docs-old](https://github.com/nteract/docs-old)             |
+| [global-sprint](https://github.com/nteract/global-sprint)     | [nteract-monthly-newsletter](https://github.com/nteract/nteract-monthly-newsletter) | [education](https://github.com/nteract/education)           |
+| [iniatives](https://github.com/nteract/iniatives)             | [nteract.io](https://github.com/nteract/nteract.io)                                 | [examples](https://github.com/nteract/examples)             |
 
 ---
 
@@ -68,7 +52,6 @@ Date updated: 2018-10-25
 - [desktop-integration-tests](https://github.com/nteract/desktop-integration-tests)
 - [create-nteract-app](https://github.com/nteract/create-nteract-app)
 - [models](https://github.com/nteract/models)
-
 
 ### vizualization
 
@@ -117,44 +100,43 @@ Date updated: 2018-10-25
 - [term-launcher](https://github.com/nteract/term-launcher)
 - [zmq-prebuilt-testing](https://github.com/nteract/vega-embed-v2)
 
-
 ---
 
-## Archived 
+## Archived
 
 - ansi-to-react
-    - ANSI to React
+  - ANSI to React
 - associator
-    - Associates file extensions to an application
+  - Associates file extensions to an application
 - commuter
-    - Migrated to nteract/nteract
+  - Migrated to nteract/nteract
 - enchannel-zmq-backend
-    - Moved to the nteract/nteract repo
+  - Moved to the nteract/nteract repo
 - jupyter-display-area
-    - Prototype Web Component for Jupyter Display Areas
+  - Prototype Web Component for Jupyter Display Areas
 - jupyter-kernel-launcher
-    - Launches Jupyter kernels from a Node environment
+  - Launches Jupyter kernels from a Node environment
 - jupyter-session
-    - A tool for interacting with Jupyter kernels
+  - A tool for interacting with Jupyter kernels
 - jupyter-transport-wrapper
-    - A thin wrapper abstracting over ZMQ and (evenutally) websockets for Jupyter
+  - A thin wrapper abstracting over ZMQ and (evenutally) websockets for Jupyter
 - naming
-    - Shipping releases with style
+  - Shipping releases with style
 - nteract.github.io
-    - GitHub Pages for nteract *** DEPRECATED - See https://github.com/nteract/nteract.io ***
+  - GitHub Pages for nteract **_ DEPRECATED - See https://github.com/nteract/nteract.io _**
 - react-jupyter-display-area
-    - Jupyter Display Area as a React Component
+  - Jupyter Display Area as a React Component
 - tick-tock
-    - Exploring Clock Synchronization
+  - Exploring Clock Synchronization
 - transformime
-    - Mimetype + data -> HTMLElement
+  - Mimetype + data -> HTMLElement
 - transformime-commonmark
-    - Transformer using commonmark.js
+  - Transformer using commonmark.js
 - transformime-jupyter-transformers
-    - Transformers for Jupyter-specific MIME types.
+  - Transformers for Jupyter-specific MIME types.
 - transformime-marked
-    - Transformer using marked
+  - Transformer using marked
 - transformime-react
-    - Mimetype + data -> React Element
+  - Mimetype + data -> React Element
 - zmq-static
-    - Statically linked bindings for node.js and io.js to ZeroMQ
+  - Statically linked bindings for node.js and io.js to ZeroMQ
