@@ -31,5 +31,9 @@ This repository contains information about project planning, including notes fro
 To Convert a Google Doc to Markdown file:
 
 - Use Chrome add-on [GD2md-html](https://chrome.google.com/webstore/detail/gd2md-html/igffnbdfnodiaphfmfaiiaegmoljbghf)
+  - Select `GD2md-html` from `Add-On` menu in Google Docs user interface menus
+  - Select `Convert`
+  - Choose `Markdown` in sidebar options. Leave boxes unchecked.
+  - Copy and Paste converted output to a new document `month-date.md`
 - Make style edits on the converted document
 - Submit a PR to this repo
