@@ -15,9 +15,9 @@ Date updated: 2018-10-25
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [meeting-minutes](https://github.com/nteract/meeting-minutes) | [assets](https://github.com/nteract/assets)                                         | [desktop-manual](https://github.com/nteract/desktop-manual) |
 | _roadmap_ (google doc)                                        | [design](https://github.com/nteract/design)                                         | [docs](https://github.com/nteract/docs)                     |
-| [specs](https://github.com/nteract/specs)                     | [logos](https://github.com/nteract/logos)                                           | [docs-old](https://github.com/nteract/docs-old)             |
-| [global-sprint](https://github.com/nteract/global-sprint)     | [nteract-monthly-newsletter](https://github.com/nteract/nteract-monthly-newsletter) | [education](https://github.com/nteract/education)           |
-| [iniatives](https://github.com/nteract/iniatives)             | [nteract.io](https://github.com/nteract/nteract.io)                                 | [examples](https://github.com/nteract/examples)             |
+| [specs](https://github.com/nteract/specs)                     | [logos](https://github.com/nteract/logos)                                           | [docs-old](https://github.com/nteract/docs-old) - DEPRECATED          |
+| [global-sprint](https://github.com/nteract/global-sprint)     | [nteract-monthly-newsletter](https://github.com/nteract/nteract-monthly-newsletter) | [examples](https://github.com/nteract/examples)         |
+| [iniatives](https://github.com/nteract/iniatives)             | [nteract.io](https://github.com/nteract/nteract.io)                                 |            |
 
 ---
 
@@ -48,7 +48,7 @@ Date updated: 2018-10-25
 
 ### nteract: Desktop
 
-- [nteract](https://github.com/nteract/nteract): monorepo and Desktop
+- [nteract](https://github.com/nteract/nteract): **monorepo** and Desktop
 - [desktop-integration-tests](https://github.com/nteract/desktop-integration-tests)
 - [create-nteract-app](https://github.com/nteract/create-nteract-app)
 - [models](https://github.com/nteract/models)
@@ -110,6 +110,8 @@ Date updated: 2018-10-25
   - Associates file extensions to an application
 - commuter
   - Migrated to nteract/nteract
+- education
+  - Education efforts will be in docs repo
 - enchannel-zmq-backend
   - Moved to the nteract/nteract repo
 - jupyter-display-area
