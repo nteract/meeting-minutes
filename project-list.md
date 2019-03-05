@@ -56,6 +56,8 @@ Date updated: 2018-10-25
 ### vizualization
 
 - [dx](https://github.com/nteract/dx)
+- [semiotic](https://github.com/nteract/semiotic)
+- [semiotic-docs](https://github.com/nteract/semiotic-docs)
 - [sidecar](https://github.com/nteract/sidecar)
 - [terminal-sidecar](https://github.com/nteract/terminal-sidecar)
 - [vega-embed-v2](https://github.com/nteract/vega-embed-v2)
