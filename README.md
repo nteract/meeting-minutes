@@ -1,6 +1,6 @@
 # nteract Contributor Meeting Minutes
 
-**Important Time Change: Weekly meetings are at 10:30 am (UDT-7) | UTC 17:30**
+**Weekly meetings are on Mondays at 10:30 am (UDT-7) | UTC 17:30**
 
 Welcome [**nteract**](https://nteract.io) contributors.
 
