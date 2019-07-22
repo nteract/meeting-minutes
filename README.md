@@ -1,6 +1,6 @@
 # nteract Contributor Meeting Minutes
 
-**Weekly meetings are on Mondays at 10:30 am (UDT-7) | UTC 17:30**
+**Weekly meetings are on Mondays at 9:30 am (UDT-7) | UTC 16:30**
 
 Welcome [**nteract**](https://nteract.io) contributors.
 
@@ -10,7 +10,7 @@ This repository contains information about project planning, including notes fro
 
 **What:** Discuss upcoming work and short-term goals
 
-**When:** Mondays | 10:30 am PDT (UTC-7) | UTC: 17:30
+**When:** Mondays | 9:30 am PDT (UTC-7) | UTC: 16:30
 
 **Where:** _Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957)_
 
