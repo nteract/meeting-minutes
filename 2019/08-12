@@ -1,0 +1,36 @@
+# August 12, 2019 meeting minutes
+
+_Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957) Mondays 9:30am Pacific_
+
+---
+
+# Weekly Meetings for nteract
+
+Mondays. 9:30am Pacific (UTC -7), 4:30pm GMT (UTC +0)
+
+Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957)
+
+Prior minutes posted at: [https://github.com/nteract/meeting-minutes](https://github.com/nteract/meeting-minutes)
+
+
+### Carol will be OOO for a while
+
+Updates from her will be delayed until she's back. Feel free to ping her but responses may be more asynchronous
+
+### nextjs & ipywidgets
+
+Got some help from contributors of nextjs in moving collaboration moving forward. The ipywidgets support is being actively developed and should be coming soonish.
+
+Vega light examples were having some issues, need to check into why.
+
+### Nteract Podcast
+
+Sofia has a podcast coming out on [learntocodewithme](https://learntocodewith.me/) about nteract!
+
+### Nbconvert & papermill
+
+Nbconvert 5.6.0 out, unblocking papermill and development time for next papermill release this week.
+
+### bookstore
+
+Filesystem based cloning release! Styling improvements also released in a patch. Releases went out smoothly.
