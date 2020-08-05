@@ -1,41 +1,31 @@
 # nteract Contributor Meeting Minutes
 
-**Weekly meetings are on Mondays at 9:30 am (UDT-7) | UTC 16:30**
+Note: If you are looking for meeting minutes from 2016-2020, you can find them in the `master` branch.
 
-Welcome [**nteract**](https://nteract.io) contributors.
+**Weekly meetings are on Tuesdays at 9:00 am (UDT-7) | UTC 16:00**
 
-This repository contains information about project planning, including notes from the weekly nteract Contributor meetings. You can also find links to our GitHub Projects page, our Roadmap, and a list of nteract's repos.
+Welcome [**nteract**](https://nteract.io) and [**Jupyter**](https://jupyter.org) contributors and community members.
 
-## [Weekly Contributor Meeting](https://zoom.us/j/795404957)
+This repository contains  notes from the weekly nteract Contributor meetings, a template for meeting meetings, and a guide for meeting coordinators.
+
+## [Weekly Contributor Meeting](https://meet.google.com/uty-mkbq-ych)
 
 **What:** Discuss upcoming work and short-term goals
 
-**When:** Mondays | 9:30 am PDT (UTC-7) | UTC: 16:30
+**When:** Tuesdays | 9:00 am PDT (UTC-7) | UTC: 16:00
 
-**Where:** _Join us on Zoom: [https://zoom.us/j/795404957](https://zoom.us/j/795404957)_
+**Where:** _Join us on Google Meet: [https://meet.google.com/uty-mkbq-ych](https://meet.google.com/uty-mkbq-ych)_
 
-[Meeting Agenda on _Google Docs_](https://docs.google.com/document/d/1W5Eu1OdKmy9lYsJ4E-3tk4Y-VKNioORY78PidQkkjxE/edit)
+## How to run a weekly meeting
 
-## Planning Links
+At the start of the meeting, assign one person to be the meeting coordinator. The meeting coordinator will be responsible for taking notes and ensuring that all meeting attendees participate in the meeting.
 
-| Link                                                                                                | Description                                                  |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [**Roadmap**](https://docs.google.com/document/d/1YDixHwNCWoPDUKeAmlR3q5c6ty1YklXuL2z53pL2lN4/edit) | milestones and vision for nteract                            |
-| [**GitHub Projects Page**](https://github.com/orgs/nteract/projects)                                | detailed planning information to meet our Roadmap milestones |
-| [**List of nteract repos and ongoing projects**](./project-list.md)                                 | includes links to every nteract repo                         |
+> :exclamation: Assign meeting coordinators so that the same individuals are not always coordinators to ensure that everyone shares the role.
 
----
+At the start of the meeting, the meeting coordinator will make a copy of the [MEETING-MINUTES-TEMPLATE.md file](./MEETING-MINUTES-TEMPLATE.md) file and fill in the appropriate fields.
 
-## Logistics
+The meeting coordinator will ask each attendee to share updates on what they are working on or questions/ideas they would like to propose. The meeting coordinator will note these conversations in the minutes.
 
-### Maintaining the weekly minutes
+After the meeting, the meeting coordinator will create a new file with a `MM-DD.md` file name for the meeting date and submit a pull request adding it to the associated year.
 
-To Convert a Google Doc to Markdown file:
-
-- Use Chrome add-on [GD2md-html](https://chrome.google.com/webstore/detail/gd2md-html/igffnbdfnodiaphfmfaiiaegmoljbghf)
-  - Select `GD2md-html` from `Add-On` menu in Google Docs user interface menus
-  - Select `Convert`
-  - Choose `Markdown` in sidebar options. Leave boxes unchecked.
-  - Copy and Paste converted output to a new document `month-date.md`
-- Make style edits on the converted document
-- Submit a PR to this repo
+> :bulb: For efficiency, the meeting coordinator can use the [Add file](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) feature in GitHub to add a new file with the appropriate name in the matching directory. When adding the new file, be sure to use the template in the [MEETING-MINUTES-TEMPLATE.md](./MEETING-MINUTES-TEMPLATE.md) file.
