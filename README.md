@@ -8,13 +8,13 @@ Welcome [**nteract**](https://nteract.io) and [**Jupyter**](https://jupyter.org)
 
 This repository contains  notes from the weekly nteract Contributor meetings, a template for meeting meetings, and a guide for meeting coordinators.
 
-## [Weekly Contributor Meeting](https://meet.google.com/uty-mkbq-ych)
+## [Weekly Contributor Meeting](https://meet.jit.si/nteract-weekly-dev)
 
 **What:** Discuss upcoming work and short-term goals
 
 **When:** Tuesdays | 9:00 am PDT (UTC-7) | UTC: 16:00
 
-**Where:** _Join us on Google Meet: [https://meet.google.com/uty-mkbq-ych](https://meet.google.com/uty-mkbq-ych)_
+**Where:** _Join us on Jitsi: [https://meet.jit.si/nteract-weekly-dev](https://meet.jit.si/nteract-weekly-dev)_
 
 ## How to run a weekly meeting
 
