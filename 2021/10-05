@@ -1,0 +1,17 @@
+# Month Date, Year
+
+October 5th, 2021
+
+### Attendees
+
+* Matt S.
+* Vivek P.
+
+### Notes
+
+- [v7 Update Merged](https://github.com/nteract/nteract/issues/5588)
+-- Wanted to do a bug jam session to make sure everything looks solid next meeting. Vivek to announce in slack about this
+-- Barry from Vivek's team wanted to discuss what next steps are
+- https://github.com/nteract/nteract/pull/5608
+-- Have duplicate of peerDependencies and dependencies
+-- Consider moving redux to peerDependency as well
