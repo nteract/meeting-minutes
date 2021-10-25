@@ -2,21 +2,21 @@
 
 Note: If you are looking for meeting minutes from 2016-2020, you can find them in the `master` branch.
 
-**Weekly meetings are on Tuesdays at 9:00 am (UDT-7) | UTC 16:00**
+**Monthly meetings are on the first Tuesday of the month at at 9:00 am (UDT-7) | UTC 16:00**
 
 Welcome [**nteract**](https://nteract.io) and [**Jupyter**](https://jupyter.org) contributors and community members.
 
-This repository contains  notes from the weekly nteract Contributor meetings, a template for meeting meetings, and a guide for meeting coordinators.
+This repository contains  notes from the monthly nteract Contributor meetings, a template for meeting meetings, and a guide for meeting coordinators.
 
-## [Weekly Contributor Meeting](https://meet.jit.si/nteract-weekly-dev)
+## [Monthly Contributor Meeting](https://discord.com/channels/852577360640999444/852577360640999448))
 
 **What:** Discuss upcoming work and short-term goals
 
-**When:** Tuesdays | 9:00 am PDT (UTC-7) | UTC: 16:00
+**When:** First Tuesday of the month | 9:00 am PDT (UTC-7) | UTC: 16:00
 
-**Where:** _Join us on Jitsi: [https://meet.jit.si/nteract-weekly-dev](https://meet.jit.si/nteract-weekly-dev)_
+**Where:** _Join us on Discord: [#dev-meetings(https://discord.com/channels/852577360640999444/852577360640999448)_
 
-## How to run a weekly meeting
+## How to run a monthly meeting
 
 At the start of the meeting, assign one person to be the meeting coordinator. The meeting coordinator will be responsible for taking notes and ensuring that all meeting attendees participate in the meeting.
 
