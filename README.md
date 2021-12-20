@@ -8,7 +8,7 @@ Welcome [**nteract**](https://nteract.io) and [**Jupyter**](https://jupyter.org)
 
 This repository contains  notes from the monthly nteract Contributor meetings, a template for meeting meetings, and a guide for meeting coordinators.
 
-## [Monthly Contributor Meeting](https://discord.com/channels/852577360640999444/852577360640999448))
+## [Monthly Contributor Meeting](https://discord.com/channels/852577360640999444/852577360640999448)
 
 **What:** Discuss upcoming work and short-term goals
 
