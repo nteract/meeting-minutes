@@ -16,6 +16,8 @@ This repository contains  notes from the monthly nteract Contributor meetings, a
 
 **Where:** _Join us on Discord: [#dev-meetings](https://discord.com/channels/852577360640999444/852577360640999448)_
 
+*New to Discord? [Here's an invitation to join the ntearact Discord.](https://discord.gg/W2anQdA2)*
+
 ## How to run a monthly meeting
 
 At the start of the meeting, assign one person to be the meeting coordinator. The meeting coordinator will be responsible for taking notes and ensuring that all meeting attendees participate in the meeting.
