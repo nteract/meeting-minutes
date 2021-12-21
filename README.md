@@ -14,7 +14,7 @@ This repository contains  notes from the monthly nteract Contributor meetings, a
 
 **When:** First Tuesday of the month | 9:00 am PDT (UTC-7) | UTC: 16:00
 
-**Where:** _Join us on Discord: [#dev-meetings(https://discord.com/channels/852577360640999444/852577360640999448)_
+**Where:** _Join us on Discord: [#dev-meetings](https://discord.com/channels/852577360640999444/852577360640999448)_
 
 ## How to run a monthly meeting
 
