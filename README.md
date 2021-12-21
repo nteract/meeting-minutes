@@ -16,7 +16,7 @@ This repository contains  notes from the monthly nteract Contributor meetings, a
 
 **Where:** _Join us on Discord: [#dev-meetings](https://discord.com/channels/852577360640999444/852577360640999448)_
 
-*New to Discord? [Here's an invitation to join the ntearact Discord.](https://discord.gg/W2anQdA2)*
+*New to Discord? [Here's an invitation to join the nteract Discord.](https://discord.gg/W2anQdA2)*
 
 ## How to run a monthly meeting
 
